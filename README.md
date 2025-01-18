@@ -47,7 +47,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-Run the script with administrator/root privileges:
+<!-- Run the script with administrator/root privileges:
 
 ```bash
 # Basic usage (capture all packets)
@@ -129,7 +129,7 @@ If no output file is specified:
 - Creates output directory if it doesn't exist
 - Automatically handles file creation and error handling
 
-## GUI Version
+## GUI Version -->
 
 The Network Sniffer now includes a Wireshark-like GUI interface for easier packet analysis. To run the GUI version:
 
